@@ -1,4 +1,4 @@
-# goit-pythonweb-hw-12
+# REST API Application: Documentation with Sphinx and User Roles & Access
 
 В даному проекті реалізовано REST API додаток з використанням багаторівневої
 архітектури ![API architecture](images/architecture.png)
